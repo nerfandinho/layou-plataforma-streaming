@@ -1,0 +1,7 @@
+img, header, figcaption, ul, figure, section, div, h3, h2, footer, button, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    
+}
